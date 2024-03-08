@@ -13,3 +13,8 @@ The font used: DM Sans
 
 
 If you need more icons you can visit [flaticons.com](https://www.flaticon.com/)
+
+
+##mobile responsive output - layout 480 * 1024
+![image](https://github.com/Sweathadharan/spotify-mobile-responsive/assets/89176350/e2c65046-f5ef-4c8b-9313-138c1fcaf97b)
+
